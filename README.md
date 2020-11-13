@@ -5,7 +5,7 @@ Simple notification template to check an email address.
 
 The challenge of emailing is to design a newsletters which can be displayed for every mail client and on every supports. 
 
-Based on the fluid template from [Cerberus](https://tedgoas.github.io/Cerberus/) website, I worked on this specific version ordered by a client during my internship in a web agency.
+Based on the fluid template from [Cerberus](https://tedgoas.github.io/Cerberus/) website, I worked on this specific version ordered by a customer during my internship in a web agency.
 
 This HTML file has been has been successfully tested on [testi.at](https://testi.at/) website with the following webclients:
 
